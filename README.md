@@ -21,3 +21,5 @@ There are three stages to this challenge, of increasing difficulty, represented 
 - images/Square - contains four images that are all exactly the same size, this means they have the same number of pixels and the same dimensions, which should simplify the job of swapping the pixels 
 - images/Portrait-Landscape - contains two images, one images is portrait style, why the other is landscape style. The images have been size so they have the same number of pixels
 - images/Misc-Sizes - contains two images of differing dimensions, and differing numbers of pixels. This means to successfully swap the images we need increase or decrease the number of pixels available from the source image by some means
+
+This dojo / kata was first presented to me by [Mathias Brandewinder](https://github.com/mathias-brandewinder) who, I believe, had the idea after a conversation with [Tomas Petricek](https://github.com/tpetricek).
